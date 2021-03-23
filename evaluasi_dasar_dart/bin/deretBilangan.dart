@@ -20,14 +20,14 @@ main(List<String> args) {
   j = 1;
 
   while (j <= i){
-    print(j);
+    stdout.write(j);
     if (j < i){
-      print("+");
+      stdout.write(" + ");
     }
     k = k + j;
     j = j + 1;
   }
-  
+  print("\n");
   print("Jumlah = $k");
   print("");
 
