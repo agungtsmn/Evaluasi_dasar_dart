@@ -8,7 +8,7 @@
 ![image](https://user-images.githubusercontent.com/79837189/112116961-6997d400-8bed-11eb-80da-f090681dc500.png)
 
 # Output Segitiga *
-![image](https://user-images.githubusercontent.com/79837189/112116399-d65e9e80-8bec-11eb-85a9-22455d6ccbd4.png)
+![image](https://user-images.githubusercontent.com/79837189/112122429-d8c3f700-8bf2-11eb-90ec-fd52a9d2de3b.png)
 
 # Output Menghitung Harga Diskon
 ![image](https://user-images.githubusercontent.com/79837189/112119955-694d0800-8bf0-11eb-9874-d52efb193225.png)
