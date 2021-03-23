@@ -3,3 +3,6 @@
 
 # Output Tunjangan Anak
 ![image](https://user-images.githubusercontent.com/79837189/112095554-48c08600-8bcf-11eb-9767-0d0eea8818d4.png)
+
+# Output Menghitung Deret Bilangan
+![image](https://user-images.githubusercontent.com/79837189/112097363-722ee100-8bd2-11eb-96e0-72ec93a7d38a.png)
