@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/79837189/112095554-48c08600-8bcf-11eb-9767-0d0eea8818d4.png)
 
 # Output Menghitung Deret Bilangan
-![image](https://user-images.githubusercontent.com/79837189/112097363-722ee100-8bd2-11eb-96e0-72ec93a7d38a.png)
+![image](https://user-images.githubusercontent.com/79837189/112116961-6997d400-8bed-11eb-80da-f090681dc500.png)
 
 # Output Segitiga *
 ![image](https://user-images.githubusercontent.com/79837189/112116399-d65e9e80-8bec-11eb-85a9-22455d6ccbd4.png)
